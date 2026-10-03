@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-535ef2bd92.novzpkj.cn/sitemap.xml
